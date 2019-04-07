@@ -1,0 +1,102 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/huana/Ma Nguon Mo/GrandNode4.30_Source/Grand.Services/Grand.Services.csproj",
+    "projectName": "Grand.Services",
+    "projectPath": "/home/huana/Ma Nguon Mo/GrandNode4.30_Source/Grand.Services/Grand.Services.csproj",
+    "outputPath": "/home/huana/Ma Nguon Mo/GrandNode4.30_Source/Grand.Services/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "/home/huana/Ma Nguon Mo/GrandNode4.30_Source/Grand.Core/Grand.Core.csproj": {
+            "projectPath": "/home/huana/Ma Nguon Mo/GrandNode4.30_Source/Grand.Core/Grand.Core.csproj"
+          },
+          "/home/huana/Ma Nguon Mo/GrandNode4.30_Source/Grand.Data/Grand.Data.csproj": {
+            "projectPath": "/home/huana/Ma Nguon Mo/GrandNode4.30_Source/Grand.Data/Grand.Data.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "AWSSDK.Core": {
+          "target": "Package",
+          "version": "[3.3.28.1, )"
+        },
+        "AWSSDK.S3": {
+          "target": "Package",
+          "version": "[3.3.26.1, )"
+        },
+        "EPPlus": {
+          "target": "Package",
+          "version": "[4.5.2.1, )"
+        },
+        "FluentScheduler": {
+          "target": "Package",
+          "version": "[5.3.0, )"
+        },
+        "Google.Apis": {
+          "target": "Package",
+          "version": "[1.36.1, )"
+        },
+        "Google.Apis.AnalyticsReporting.v4": {
+          "target": "Package",
+          "version": "[1.36.1.1391, )"
+        },
+        "MaxMind.GeoIP2": {
+          "target": "Package",
+          "version": "[3.0.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "System.ServiceModel.Duplex": {
+          "target": "Package",
+          "version": "[4.5.3, )"
+        },
+        "System.ServiceModel.Http": {
+          "target": "Package",
+          "version": "[4.5.3, )"
+        },
+        "System.ServiceModel.NetTcp": {
+          "target": "Package",
+          "version": "[4.5.3, )"
+        },
+        "System.ServiceModel.Security": {
+          "target": "Package",
+          "version": "[4.5.3, )"
+        },
+        "WindowsAzure.Storage": {
+          "target": "Package",
+          "version": "[9.3.2, )"
+        },
+        "iTextSharp.LGPLv2.Core": {
+          "target": "Package",
+          "version": "[1.4.4, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

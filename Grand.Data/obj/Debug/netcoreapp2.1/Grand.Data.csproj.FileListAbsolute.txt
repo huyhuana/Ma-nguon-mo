@@ -1,0 +1,12 @@
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Data/bin/Debug/netcoreapp2.1/Grand.Data.deps.json
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Data/bin/Debug/netcoreapp2.1/Grand.Data.dll
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Data/bin/Debug/netcoreapp2.1/Grand.Data.pdb
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Data/bin/Debug/netcoreapp2.1/Grand.Core.dll
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Data/bin/Debug/netcoreapp2.1/Grand.Core.pdb
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Data/obj/Debug/netcoreapp2.1/Grand.Data.csprojAssemblyReference.cache
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Data/obj/Debug/netcoreapp2.1/Grand.Data.csproj.CoreCompileInputs.cache
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Data/obj/Debug/netcoreapp2.1/Grand.Data.AssemblyInfoInputs.cache
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Data/obj/Debug/netcoreapp2.1/Grand.Data.AssemblyInfo.cs
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Data/obj/Debug/netcoreapp2.1/Grand.Data.csproj.CopyComplete
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Data/obj/Debug/netcoreapp2.1/Grand.Data.dll
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Data/obj/Debug/netcoreapp2.1/Grand.Data.pdb

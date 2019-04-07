@@ -1,0 +1,9 @@
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Core/bin/Debug/netcoreapp2.1/Grand.Core.deps.json
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Core/bin/Debug/netcoreapp2.1/Grand.Core.dll
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Core/bin/Debug/netcoreapp2.1/Grand.Core.pdb
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Core/obj/Debug/netcoreapp2.1/Grand.Core.csprojAssemblyReference.cache
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Core/obj/Debug/netcoreapp2.1/Grand.Core.csproj.CoreCompileInputs.cache
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Core/obj/Debug/netcoreapp2.1/Grand.Core.AssemblyInfoInputs.cache
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Core/obj/Debug/netcoreapp2.1/Grand.Core.AssemblyInfo.cs
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Core/obj/Debug/netcoreapp2.1/Grand.Core.dll
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Core/obj/Debug/netcoreapp2.1/Grand.Core.pdb

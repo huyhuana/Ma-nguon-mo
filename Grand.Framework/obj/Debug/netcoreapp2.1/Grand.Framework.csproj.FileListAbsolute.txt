@@ -1,0 +1,16 @@
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Framework/bin/Debug/netcoreapp2.1/Grand.Framework.deps.json
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Framework/bin/Debug/netcoreapp2.1/Grand.Framework.dll
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Framework/bin/Debug/netcoreapp2.1/Grand.Framework.pdb
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Framework/bin/Debug/netcoreapp2.1/Grand.Core.dll
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Framework/bin/Debug/netcoreapp2.1/Grand.Data.dll
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Framework/bin/Debug/netcoreapp2.1/Grand.Services.dll
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Framework/bin/Debug/netcoreapp2.1/Grand.Core.pdb
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Framework/bin/Debug/netcoreapp2.1/Grand.Data.pdb
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Framework/bin/Debug/netcoreapp2.1/Grand.Services.pdb
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Framework/obj/Debug/netcoreapp2.1/Grand.Framework.csprojAssemblyReference.cache
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Framework/obj/Debug/netcoreapp2.1/Grand.Framework.csproj.CoreCompileInputs.cache
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Framework/obj/Debug/netcoreapp2.1/Grand.Framework.AssemblyInfoInputs.cache
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Framework/obj/Debug/netcoreapp2.1/Grand.Framework.AssemblyInfo.cs
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Framework/obj/Debug/netcoreapp2.1/Grand.Framework.csproj.CopyComplete
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Framework/obj/Debug/netcoreapp2.1/Grand.Framework.dll
+/home/huana/LocalRepo/Ma-nguon-mo/Grand.Framework/obj/Debug/netcoreapp2.1/Grand.Framework.pdb

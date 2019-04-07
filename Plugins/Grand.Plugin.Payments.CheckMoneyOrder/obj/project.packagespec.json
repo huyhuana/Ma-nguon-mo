@@ -1,0 +1,59 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/huana/Ma Nguon Mo/GrandNode4.30_Source/Plugins/Grand.Plugin.Payments.CheckMoneyOrder/Grand.Plugin.Payments.CheckMoneyOrder.csproj",
+    "projectName": "Grand.Plugin.Payments.CheckMoneyOrder",
+    "projectPath": "/home/huana/Ma Nguon Mo/GrandNode4.30_Source/Plugins/Grand.Plugin.Payments.CheckMoneyOrder/Grand.Plugin.Payments.CheckMoneyOrder.csproj",
+    "outputPath": "/home/huana/Ma Nguon Mo/GrandNode4.30_Source/Plugins/Grand.Plugin.Payments.CheckMoneyOrder/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "/home/huana/Ma Nguon Mo/GrandNode4.30_Source/Grand.Core/Grand.Core.csproj": {
+            "projectPath": "/home/huana/Ma Nguon Mo/GrandNode4.30_Source/Grand.Core/Grand.Core.csproj"
+          },
+          "/home/huana/Ma Nguon Mo/GrandNode4.30_Source/Grand.Data/Grand.Data.csproj": {
+            "projectPath": "/home/huana/Ma Nguon Mo/GrandNode4.30_Source/Grand.Data/Grand.Data.csproj"
+          },
+          "/home/huana/Ma Nguon Mo/GrandNode4.30_Source/Grand.Framework/Grand.Framework.csproj": {
+            "projectPath": "/home/huana/Ma Nguon Mo/GrandNode4.30_Source/Grand.Framework/Grand.Framework.csproj"
+          },
+          "/home/huana/Ma Nguon Mo/GrandNode4.30_Source/Grand.Services/Grand.Services.csproj": {
+            "projectPath": "/home/huana/Ma Nguon Mo/GrandNode4.30_Source/Grand.Services/Grand.Services.csproj"
+          },
+          "/home/huana/Ma Nguon Mo/GrandNode4.30_Source/Grand.Web/Grand.Web.csproj": {
+            "projectPath": "/home/huana/Ma Nguon Mo/GrandNode4.30_Source/Grand.Web/Grand.Web.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
